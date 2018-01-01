@@ -74,7 +74,7 @@ p {
   float: left;
 }
 
-.btn btn-default btn-lg {
+.btn {
   float: center;
 }
 
@@ -116,5 +116,7 @@ p {
 }
 
 .features {
-  text-align: left;
+  text-align: center;
+  color: #1abc9c;
+  font-weight: bold;
 }
